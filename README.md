@@ -6,4 +6,4 @@ We propose a [template](https://github.com/opendesigncasestudies/odcs-template) 
 
 ### Citation
 
-Chong, Chun Yong, Eunsuk Kang, and Mary Shaw. "Open Design Case Study--A Crowdsourcing Effort to Curate Software Design Case Studies." arXiv preprint arXiv:2301.05069 (2023).
+Chong, Chun Yong, Eunsuk Kang, and Mary Shaw. "Open Design Case Study - A Crowdsourcing Effort to Curate Software Design Case Studies," in 2023 IEEE/ACM 45th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET), Melbourne, Australia, 2023 pp. 23-28. doi: 10.1109/ICSE-SEET58685.2023.00008
